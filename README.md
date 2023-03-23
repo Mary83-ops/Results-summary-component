@@ -12,13 +12,15 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Links
 
-- [Solution URL](https://github.com/Mary83-ops/QR-code-component.git/)
-- [Live Site URL](https://mary83-ops.github.io/QR-code-component//)
+- [Solution URL](https://github.com/Mary83-ops/Results-summary-component.git)
+- [Live Site URL](https://mary83-ops.github.io/Results-summary-component/)
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS Grid
+- Mobile-first workflow
 
 ## Author
 
