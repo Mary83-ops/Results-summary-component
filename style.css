@@ -99,25 +99,41 @@ body {
     display: flex;
     padding: 1rem;
     background-color: hsla(0, 100%, 67%, .1);
-    color: var(--lightRed);
     align-items: center;
     justify-content: space-between;
     border-radius: .5rem;
   }
 
+  .summary-rank h2 {
+    color: var(--lightRed);
+    font-size: 1rem
+  }
+
   .summary-rank:nth-child(2) {
     background-color: hsla(39, 100%, 56%, .1);
-    color: var(--orangeyYellow)
+  }
+
+  .summary-rank:nth-child(2) h2 {
+    color: var(--orangeyYellow);
+    font-size: 1rem;;
   }
 
   .summary-rank:nth-child(3) {
     background-color: hsla(166, 100%, 37%, .1);
+  }
+
+  .summary-rank:nth-child(3) h2 {
     color: var(--greeTeal);
+    font-size: 1rem;
   }
 
   .summary-rank:nth-child(4) {
     background-color: hsla(234, 85%, 45%, .1);
+  }
+
+  .summary-rank:nth-child(4) {
     color: var(--cobaltBlue);
+    font-size: 1rem;
   }
 
   .ranks {
